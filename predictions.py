@@ -23,5 +23,5 @@ with open("results.txt", "w") as file:
         unigrams = [v for v in feature_names if len(v.split(' ')) == 1]
         bigrams = [v for v in feature_names if len(v.split(' ')) == 2]
         file.write(category + '\n')
-        file.write("  * 3 Most Common Unigrams: {}\n".format(', '.join(unigrams[-3:])))
-        file.write("  * 3 Most Common Bigrams: {}\n\n".format(', '.join(bigrams[-3:])))
+        file.write("  3 Most Common Unigrams: {}\n".format(', '.join(unigrams[-3:])))
+        file.write("  3 Most Common Bigrams: {}\n\n".format(', '.join(bigrams[-3:])))
