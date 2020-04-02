@@ -1,0 +1,92 @@
+Administrative
+  * 3 Most Common Unigrams: interested, intern, resume
+  * 3 Most Common Bigrams: experience skills, sure include, interested particular
+
+Business Strategy
+  * 3 Most Common Unigrams: lot, contribution, interns
+  * 3 Most Common Bigrams: assigned interns, interns given, opportunity meaningful
+
+Data Center & Network
+  * 3 Most Common Unigrams: operationalization, handover, modelling
+  * 3 Most Common Bigrams: building information, manage strategies, data integrity
+
+Developer Relations
+  * 3 Most Common Unigrams: reproduce, fix, developers
+  * 3 Most Common Bigrams: ux solve, systems fix, fix bugs
+
+Finance
+  * 3 Most Common Unigrams: financial, accounting, interns
+  * 3 Most Common Bigrams: opportunity make, provide meaningful, opportunity provide
+
+Hardware Engineering
+  * 3 Most Common Unigrams: optical, manufacturing, verification
+  * 3 Most Common Bigrams: fpga implementation, formal verification, manufacturing processes
+
+IT & Data Management
+  * 3 Most Common Unigrams: nlu, linguists, linguistic
+  * 3 Most Common Bigrams: linguists vendors, propose run, junior linguists
+
+Legal & Government Relations
+  * 3 Most Common Unigrams: privacy, law, legal
+  * 3 Most Common Bigrams: legal issues, business clients, company policies
+
+Manufacturing & Supply Chain
+  * 3 Most Common Unigrams: mass, chain, supply
+  * 3 Most Common Bigrams: execute global, mass production, supply chain
+
+Marketing & Communications
+  * 3 Most Common Unigrams: detailed, background, educational
+  * 3 Most Common Bigrams: based educational, detailed projects, background skills
+
+Network Engineering
+  * 3 Most Common Unigrams: firewalls, switches, network
+  * 3 Most Common Bigrams: network switches, firewalls wireless, network issues
+
+Partnerships
+  * 3 Most Common Unigrams: telco, joint, partners
+  * 3 Most Common Bigrams: performance partners, google practice, service partners
+
+People Operations
+  * 3 Most Common Unigrams: interview, candidates, hiring
+  * 3 Most Common Bigrams: operations engineering, experience candidate, interview process
+
+Product & Customer Support
+  * 3 Most Common Unigrams: score, promoter, pse
+  * 3 Most Common Bigrams: services teams, partner satisfaction, training experiences
+
+Program Management
+  * 3 Most Common Unigrams: knowledgeable, provided, energize
+  * 3 Most Common Bigrams: energize market, market ecosystem, ecosystem partner
+
+Real Estate & Workplace Services
+  * 3 Most Common Unigrams: safety, food, security
+  * 3 Most Common Bigrams: providing services, performance corporate, daily operations
+
+Sales & Account Management
+  * 3 Most Common Unigrams: mobile, clients, agency
+  * 3 Most Common Bigrams: business growth, relationships clients, develop thorough
+
+Sales Operations
+  * 3 Most Common Unigrams: installed, inside, entire
+  * 3 Most Common Bigrams: sales representatives, collaboratively inside, representatives customer
+
+Software Engineering
+  * 3 Most Common Unigrams: codec, algorithms, deadlines
+  * 3 Most Common Bigrams: priorities deadlines, deadlines deliverables, maintain improve
+
+Technical Infrastructure
+  * 3 Most Common Unigrams: refinement, postmortems, latency
+  * 3 Most Common Bigrams: established procedures, services live, capacity planning
+
+Technical Solutions
+  * 3 Most Common Unigrams: solution, platform, technical
+  * 3 Most Common Bigrams: onsite delivery, delivery activities, work hands
+
+Technical Writing
+  * 3 Most Common Unigrams: docs, proofread, developer
+  * 3 Most Common Bigrams: non writers, relevant sample, clarify proofread
+
+User Experience & Design
+  * 3 Most Common Unigrams: interaction, usability, user
+  * 3 Most Common Bigrams: user interface, usability new, gauge usability
+
